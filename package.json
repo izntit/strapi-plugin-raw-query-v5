@@ -20,7 +20,7 @@
     "react-json-to-table": "0.1.7"
   },
   "peerDependencies": {
-    "@strapi/strapi": "^4.4.0"
+    "@strapi/strapi": "^5.9.0"
   },
   "author": {
     "name": "Tobias Thiele",
